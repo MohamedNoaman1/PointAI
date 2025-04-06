@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointAI.WebAPI", "PointAI.WebAPI\PointAI.WebAPI.csproj", "{13F8A1EA-820E-4F57-BC90-ED615223CD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointAI.Core", "PointAI.Core\PointAI.Core.csproj", "{ED5D6F18-5E70-4B34-BDE9-B379537D6561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointAI.Data", "PointAI.Data\PointAI.Data.csproj", "{33901B17-5ECE-4979-BF0A-A1BB54729C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointAI.WebApp", "PointAI.WebApp\PointAI.WebApp.csproj", "{F24ADD72-70F9-458C-A690-41FCE4F3A7A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointAI.Maui", "PointAI.Maui\PointAI.Maui.csproj", "{EA98C0F0-0F09-4BAA-B00F-92470F28F77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointAI.Training", "PointAI.Training\PointAI.Training.csproj", "{9582F707-5D39-48BE-80CD-B67110E60676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F8A1EA-820E-4F57-BC90-ED615223CD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F8A1EA-820E-4F57-BC90-ED615223CD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F8A1EA-820E-4F57-BC90-ED615223CD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F8A1EA-820E-4F57-BC90-ED615223CD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5D6F18-5E70-4B34-BDE9-B379537D6561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5D6F18-5E70-4B34-BDE9-B379537D6561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5D6F18-5E70-4B34-BDE9-B379537D6561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5D6F18-5E70-4B34-BDE9-B379537D6561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33901B17-5ECE-4979-BF0A-A1BB54729C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33901B17-5ECE-4979-BF0A-A1BB54729C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33901B17-5ECE-4979-BF0A-A1BB54729C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33901B17-5ECE-4979-BF0A-A1BB54729C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24ADD72-70F9-458C-A690-41FCE4F3A7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24ADD72-70F9-458C-A690-41FCE4F3A7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24ADD72-70F9-458C-A690-41FCE4F3A7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24ADD72-70F9-458C-A690-41FCE4F3A7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA98C0F0-0F09-4BAA-B00F-92470F28F77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA98C0F0-0F09-4BAA-B00F-92470F28F77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA98C0F0-0F09-4BAA-B00F-92470F28F77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA98C0F0-0F09-4BAA-B00F-92470F28F77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9582F707-5D39-48BE-80CD-B67110E60676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9582F707-5D39-48BE-80CD-B67110E60676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9582F707-5D39-48BE-80CD-B67110E60676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9582F707-5D39-48BE-80CD-B67110E60676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E222F6-5E2F-4DFF-AE0B-87CE3799C4A8}
+	EndGlobalSection
+EndGlobal
